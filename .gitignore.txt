@@ -1,0 +1,8 @@
+__pycache__
+alembic/versions
+venv
+HOWTO*
+sample_db
+*.pyc
+*.ai
+*.svg
