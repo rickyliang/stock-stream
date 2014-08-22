@@ -1,5 +1,5 @@
 __pycache__
-alembic/versions
+alembic
 venv
 HOWTO*
 sample_db.db

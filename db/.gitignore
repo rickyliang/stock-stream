@@ -1,0 +1,5 @@
+# Ignore everything in this directory except this file.
+# Git will commit this empty directory with this .gitignore.
+# Needed to run db_create.py
+*
+!.gitignore

@@ -10,7 +10,7 @@ config = {
     'download_url': 'Not yet available.',
     'author_email': 'Not yet available.',
     'version': '0.1',
-    'install_requires': ['nose'],
+    'install_requires': ['nose', 'alembic', 'requests'],
     'packages': ['stream'],
     'scripts': [],
     'name': 'Stock-Stream'
